@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Chork" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Mico_Ultrabook\\Documents\\Visual\ Studio\ 2013\\Projects\\C\#\\Chork\\Chork\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Mico_Ultrabook\\Documents\\Visual\ Studio\ 2013\\Projects\\C\#\\Chork\\Chork\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MovieDBContext-Web.config Connection String" description="" value="Data Source=tcp:b7uv5cjbb6.database.windows.net,1433;Initial Catalog=Chork_db;User Id=bch6000@b7uv5cjbb6;Password=gd5w4ifd7$wuen73nv!;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mico_Ultrabook\\Documents\\Visual\ Studio\ 2013\\Projects\\C\#\\Chork\\Chork\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MovieDBContext']/@connectionString" />
+  </parameter>
+</parameters>
